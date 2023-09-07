@@ -1,4 +1,4 @@
-Alzheimer_data<-read.csv("C:/Users/Fer_c/OneDrive/Escritorio/Modeling/FINAL PROJECT/project data.csv",head=TRUE)
+Alzheimer_data<-read.csv("project data.csv",head=TRUE)
 library(dplyr)
 library(tidyr)
 library(ggplot2)
